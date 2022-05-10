@@ -18,6 +18,4 @@
   <a href = "mailto:yuri@angramar.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-moreira-andr%C3%A9-332189177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/yuriiruyma/yuriiruyma/blob/output/github-contribution-grid-snake.svg)
-
 </div>
